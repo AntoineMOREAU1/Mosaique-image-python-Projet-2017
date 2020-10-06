@@ -15,13 +15,13 @@ L'éxecution n'est pas pratique à cause de ma faible expérience à l'époque :
 
 # Résultat :
 
-![Test Image 5](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/aurelie.jpg)
-![Test Image 6](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/aurelie28.jpg)
+![img1](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/aurelie.jpg)
+![img2](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/aurelie28.jpg)
 
-![Test Image 1](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/avengers.jpg)
-![Test Image 2](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/avangersfinal.jpg)
+![img3](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/avengers.jpg)
+![img4](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/avangersfinal.jpg)
 
 
-![Test Image 3](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/my-hero-academia.jpg)
-![Test Image 4](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/herofinal.jpg)
+![img5](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-OG/my-hero-academia.jpg)
+![img6](https://github.com/AntoineMOREAU1/Mosaique-image-python-Projet-2017/blob/main/Photo-Final/herofinal.jpg)
 
